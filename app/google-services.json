@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659129100734",
+    "project_id": "notevibe-3bdbf",
+    "storage_bucket": "notevibe-3bdbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659129100734:android:3d20f564bdccae5c9bf1ef",
+        "android_client_info": {
+          "package_name": "dev.khoi.notevibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVFJ7F5EmRwdojf1Hn2x7LjNFzr2-JDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
